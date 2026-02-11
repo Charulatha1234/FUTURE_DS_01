@@ -126,7 +126,7 @@ This project delivers a **real-world, end-to-end churn analysis** combining Pyth
 
 ---
 
-📌 **Author:** Varshi  
+📌 **Author:** E Charulatha
 📌 **Role:** Data Science & Analytics Intern  
 📌 **Organization:** Future Interns
 
